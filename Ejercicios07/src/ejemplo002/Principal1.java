@@ -121,3 +121,6 @@ public class Principal1 {
     
     
 }
+// Este codigo se ejecuta con los valores del arreglo ya dado dentro de un ciclo
+//y para cada parametro se llama una funcion las cuales realiza lo que debe
+//cumplir y al final los acumula para crear un archivo.txt
