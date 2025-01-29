@@ -5,8 +5,8 @@ public class PruebaLeerArchivoTexto {
 
     public static void main(String args[]) {
         // LeerArchivoTexto.leerRegistros01();
-        // LeerArchivoTexto.leerRegistros02();
-        LeerArchivoTexto.leerRegistros03();
+         LeerArchivoTexto.leerRegistros02();
+        //LeerArchivoTexto.leerRegistros03();
         // LeerArchivoTexto.leerRegistros04();
 
     } // fin de main
